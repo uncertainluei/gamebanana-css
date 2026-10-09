@@ -1,11 +1,12 @@
 @import url('https://mythslist.github.io/gamebanana-css/gb-main.css');
+@import url('https://fonts.bunny.net/css?family=comic-neue:400');
 
 :root {
-	--DefaultTextFontFamily: "Comic Sans MS", "Comic Sans", cursive;
-    --DefaultTechnicalFontFamily: "Comic Sans MS", "Comic Sans", cursive;
-	--ModuleTitleFontFamily: "Comic Sans MS", "Comic Sans", cursive;
-	--NavPaneTitleFontFamily: "Comic Sans MS", "Comic Sans", cursive;
-	--ButtonFontFamily: "Comic Sans MS", "Comic Sans", cursive;
+	--DefaultTextFontFamily: "Comic Sans MS", "Comic Neue", sans-serif;
+    --DefaultTechnicalFontFamily: "Comic Sans MS", "Comic Neue", sans-serif;
+	--ModuleTitleFontFamily: "Comic Sans MS", "Comic Neue", sans-serif;
+	--NavPaneTitleFontFamily: "Comic Sans MS", "Comic Neue", sans-serif;
+	--ButtonFontFamily: "Comic Sans MS", "Comic Neue", sans-serif;
 	--BodyBackground: #222222 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAHElEQVQoU2NkIA5IMhKnjmFUId6AAgePJDFhCQDDFAEFiQDatQAAAABJRU5ErkJggg==);
 	--BodyWrapperBackground: #00000087;
 	--NavPaneBackgroundColor: #575757;
